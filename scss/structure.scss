@@ -17,6 +17,9 @@ p {
   margin-bottom: 16px;
 }
 
-h1 {
-  color: aqua;
+#app {
+  max-width: $content-width;
+  margin: 0 auto;
+  //   min-height: 200px;
+  //   background-color: aqua;
 }

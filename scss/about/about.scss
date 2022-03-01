@@ -1,0 +1,62 @@
+.about {
+  margin-top: 110px;
+  margin-bottom: 180px;
+
+  .about-header {
+    h1 {
+      font-size: 60px;
+      margin-bottom: 5px;
+    }
+    hr {
+      width: 127px;
+      border: 2px solid;
+    }
+
+    p {
+      margin-top: 20px;
+    }
+  }
+
+  .about-client-quotes {
+    margin-top: 107px;
+
+    .client-quote-title {
+      font-size: 40px;
+      font-family: Nova;
+      font-weight: 100;
+    }
+
+    .client-box {
+      max-width: 722px;
+      background-color: antiquewhite;
+      display: flex;
+      position: relative;
+      margin-bottom: 37px;
+
+      .client-image {
+        height: 150px;
+        width: 260px;
+        // background-color: aqua;
+        overflow: hidden;
+        margin-right: 21px;
+
+        img {
+          width: 100%;
+        }
+      }
+
+      .client-quote {
+        width: 440px;
+        // background-color: pink;
+        margin-bottom: 20px;
+      }
+
+      .client-name {
+        // background-color: purple;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+      }
+    }
+  }
+}
