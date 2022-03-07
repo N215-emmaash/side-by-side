@@ -33,15 +33,13 @@ nav {
   justify-content: space-between;
   align-items: center;
 }
-nav .logo {
-  width: 100px;
-  height: 50px;
-  background-color: antiquewhite;
-}
-nav .links a {
+nav a {
+  color: white;
   text-decoration: none;
-  color: black;
-  margin-left: 20px;
+  padding: 10px;
+  font-family: Gill Sans;
+  font-size: 15px;
+  letter-spacing: 1px;
 }
 
 footer {
