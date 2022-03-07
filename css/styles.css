@@ -27,14 +27,13 @@ p {
 nav {
   max-width: 980px;
   margin: 0 auto;
-  background-color: #79addc;
   min-height: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 nav a {
-  color: white;
+  color: black;
   text-decoration: none;
   padding: 10px;
   font-family: Gill Sans;
@@ -63,9 +62,11 @@ footer .footer-content {
 .about .about-header h1 {
   font-size: 60px;
   margin-bottom: 5px;
+  font-family: Nova;
+  font-weight: thin;
 }
 .about .about-header hr {
-  width: 127px;
+  width: 100px;
   border: 2px solid;
 }
 .about .about-header p {
