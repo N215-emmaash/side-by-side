@@ -97,7 +97,6 @@ footer .footer-content p {
 }
 .about .about-client-quotes .client-box {
   max-width: 722px;
-  background-color: antiquewhite;
   display: flex;
   position: relative;
   margin-bottom: 37px;
@@ -114,11 +113,18 @@ footer .footer-content p {
 .about .about-client-quotes .client-box .client-quote {
   width: 440px;
   margin-bottom: 20px;
+  font-family: Gill Sans;
+  font-size: 16px;
+  font-style: italic;
 }
 .about .about-client-quotes .client-box .client-name {
   position: absolute;
   bottom: 0;
   right: 0;
+  color: #79addc;
+  font-family: Nova;
+  font-size: 20px;
+  font-weight: thin;
 }
 
 @font-face {
