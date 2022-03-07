@@ -10,5 +10,13 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    p {
+      color: white;
+      font-size: 18px;
+      font-family: Gill Sans;
+      text-align: center;
+      // padding: 10px;
+    }
   }
 }

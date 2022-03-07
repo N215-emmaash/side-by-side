@@ -15,3 +15,9 @@ nav {
     letter-spacing: 1px;
   }
 }
+
+hr {
+  width: $content-width;
+  border: 2px solid;
+  margin: 0 auto;
+}
