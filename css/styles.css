@@ -40,6 +40,10 @@ nav a {
   font-size: 15px;
   letter-spacing: 1px;
 }
+nav .vl {
+  border-left: 1px solid #79addc;
+  height: 21px;
+}
 
 hr {
   width: 980px;
@@ -72,15 +76,14 @@ footer .footer-content .footer-text {
   font-family: Gill Sans;
   text-align: center;
 }
-footer .footer-content .footericons {
+footer .footer-content .footer-icons {
   width: 110px;
   height: 22px;
-  background-color: red;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-footer .footer-content .footericons i {
+footer .footer-content .footer-icons i {
   color: white;
   font-size: 25px;
 }
