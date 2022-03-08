@@ -1,16 +1,10 @@
-# Side By Side
+# 'Homework-Five
 
-## This is your README
+## My responsive Travel-Fly about page.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
-maiores excepturi reprehenderit aliquid sit consequuntur ipsa eius
-deserunt praesentium omnis quo incidunt nam corrupti, accusamus
-obcaecati aut eum cupiditate ex neque. Error eius dolores ex rerum.
-Debitis temporibus, suscipit dicta adipisci ut officia. Dolore
-repudiandae dolorem tempore hic vel esse quaerat nisi tenetur
-molestiae veritatis voluptas, nihil ullam, illo, omnis ducimus soluta
-optio natus voluptatum ad temporibus aliquam. Porro blanditiis qui
-incidunt odit id, doloremque quibusdam architecto deserunt officia
-sint, consequatur laudantium! Impedit optio, ipsum distinctio quas
-quam debitis, ab quia in illum officia soluta mollitia quos architecto
-incidunt. Reprehenderit.
+You must create a project named homework-five.
+Your about page must look like the prototype
+Your page must be responsive.
+You can align the elements as you wish but they must look good and not touch the sides of the browser.
+
+Web 4 Link: https://in-info-web4.informatics.iupui.edu/~emmaash/N215/homework-five/
