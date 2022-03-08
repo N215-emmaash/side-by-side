@@ -4,24 +4,14 @@
   background-color: aqua;
 
   .promo {
-    @include promo;
-
-    height: 304px;
-    width: 235px;
-    background-color: antiquewhite;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    @include promo();
 
     .promo-text {
+      font-size: 25px;
+      font-family: gill sans;
     }
     .read-button {
-      background-color: $site-blue;
-      padding: 5px 15px;
-      border-radius: 5px;
-      color: white;
-      cursor: pointer;
+      @include site-button(0 20px);
     }
   }
 }
